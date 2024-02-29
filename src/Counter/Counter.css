@@ -1,0 +1,21 @@
+.counterapp {
+  height: 200px;
+  width: 300px;
+  border: 2px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid;
+  box-shadow: 0 4px 10px rgb(22 234 236);
+}
+.counterapp h1 {
+  color: #194ad7;
+}
+.incre {
+  color: rgb(21, 20, 20);
+  background-color: rgb(37, 185, 91);
+}
+
+.decri {
+  color: rgb(21, 20, 20);
+  background-color: rgb(205, 79, 94);
+}
